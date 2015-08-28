@@ -1,10 +1,12 @@
 {
   "private": true,
   "devDependencies": {
-    "gulp": "^3.8.8"
+    "gulp": "*"
   },
   "dependencies": {
-    "laravel-elixir": "^2.0.0",
-    "bootstrap-sass": "^3.0.0"
+    "normalize.css": "*",
+    "laravel-elixir": "*",
+    "laravel-elixir-livereload": "*",
+    "laravel-elixir-sass-compass": "*"
   }
 }

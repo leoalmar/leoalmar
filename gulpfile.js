@@ -17,7 +17,7 @@ elixir.config.sourcemaps = false;
 
 elixir(function(mix) {
 	
-	//mix.compass('app.scss','public/site/css/',{ style: "compressed", sass: "./resources/assets/site/sass" });
+	mix.compass('app.scss','public/site/css/',{ style: "compressed", sass: "./resources/assets/site/sass" });
 	//mix.compass('app.scss','public/dashboard/css/',{ style: "compressed", sass: "./resources/assets/dashboard/sass" });
     	
     mix.livereload();
