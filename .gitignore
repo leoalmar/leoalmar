@@ -9,6 +9,8 @@ Homestead.yaml
 
 # ================================
 
+.svn
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
